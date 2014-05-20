@@ -2,4 +2,8 @@ HelloGit
 ========
 
 Practicing git command 
-First Trial
+-------
+>"Note:"
+>
+> - First Trial
+> - Use Markdown to edit text
